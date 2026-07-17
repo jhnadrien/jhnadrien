@@ -45,6 +45,9 @@ I enjoy building real-world projects that combine hardware and software, from Io
 
 ### Frameworks & Tools
 
+* Packet Tracer
+* VMWare
+* GNS3
 * Firebase
 * Git
 * GitHub
